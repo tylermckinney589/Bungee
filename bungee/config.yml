@@ -10,7 +10,7 @@ listeners:
   priorities:
   - lobby
   bind_local_address: false
-  host: 127.0.0.1:25577
+  host: play2.eternalzero.cloud:27002
   max_players: 1
   tab_size: 60
   force_default_server: true
