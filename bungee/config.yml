@@ -10,7 +10,7 @@ listeners:
   priorities:
   - lobby
   bind_local_address: false
-  host: play2.eternalzero.cloud:27002
+  host: 127.0.0.1:25577
   max_players: 1
   tab_size: 60
   force_default_server: true
@@ -40,7 +40,7 @@ ip_forward: false
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: hydrovolter.aternos.me:39790
+    address: play2.eternalzero.cloud:27002
     restricted: false
 reject_transfers: false
 server_connect_timeout: 5000
